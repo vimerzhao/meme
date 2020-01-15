@@ -4,3 +4,4 @@
 ./refactoring.png 给你一本重构秘籍
 ./train_small_hole.gif 火车过山洞
 ./give-up-dream.jpg 认清形势，放弃幻想
+./v_.jpg v_|哭了
